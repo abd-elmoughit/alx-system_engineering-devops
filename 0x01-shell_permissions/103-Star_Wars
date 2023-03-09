@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -StarWars hello
+telnet towel.blinkenlights.nl
